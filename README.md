@@ -25,4 +25,5 @@ By enabling data encryption, I ensured that the data stored in the S3 bucket was
 In conclusion, I successfully implemented IAM policies, secured storage, and applied data encryption on the cloud platform to protect sensitive data. The IAM policies allowed for fine-grained control over user access, ensuring that only authorized users could access the resources. Securing storage with Amazon S3 and enabling versioning added an additional layer of protection, allowing data recovery in case of accidental deletion. Data encryption ensured that all data at rest was protected and confidential. These steps collectively contributed to enhancing the overall security of the cloud environment, ensuring compliance with security standards.
 
 **OUTPUT OF TASK**:
+[aws_security_report.txt](https://github.com/user-attachments/files/18556442/aws_security_report.txt)
 
